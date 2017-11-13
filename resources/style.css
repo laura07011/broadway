@@ -38,3 +38,15 @@ p{
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-position: center;
 }
+
+#footer p{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+#footer a{
+  font-size: 18px;
+  color: white;
+}
